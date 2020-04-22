@@ -22,16 +22,21 @@ Take a look at the following resources to learn more about problem solving as ap
 [Lessons in problem solving](https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/)
 [Computational thinking](https://www.youtube.com/watch?v=qbnTZCj0ugI)
 
+https://www.youtube.com/watch?v=mUXo-S7gzds&feature=youtu.be
+
 After you've watched these videos I'd like you to answer these questions
 
 ## 1. What do you think the most important quality for a programmer is?
 
 <!-- Write your answer here -->
+Answer - Problem solving and breaking down big tasks to much smaller steps.
 
 ## 2. When trying to solve a challenge, what should you do first?
 
 <!-- Write your answer here -->
+Answer - Understand the problem. 
 
 ## 3. What should you do if you get stuck?
 
 <!-- Write your answer here -->
+Answer - Think like a computer and retrace your steps/ check if the correct instructions was given to the computer, or start from scratch. 
